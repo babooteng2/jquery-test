@@ -1,4 +1,4 @@
-# React Project BoilerPlate V1.0
+# jquery-test with React Project BoilerPlate V1.0
 
 ### Initial setting
 
@@ -9,5 +9,4 @@
 
 #### To do
 
-- [ ] eslint - 환경 적용
-- [ ] prettier - 환경 적용
+- [ ] package.json 위치에 .env 환경변수 파일 작성( db정보 )
